@@ -1,0 +1,128 @@
+000001.wav.npy|42600|213|ka3 er3 pu3 pei2 wai4 sun1 wan2 hua2 ti1 。
+000002.wav.npy|45800|229|jia3 yu3 cun1 yan2 bie2 zai4 yong1 bao4 wo3 。
+000003.wav.npy|70600|353|bao3 ma3 pei4 gua4 bo3 luo2 an1 ， diao1 chan2 yuan4 zhen3 dong3 weng1 ta4 。
+000004.wav.npy|41800|209|deng4 xiao3 ping2 yu3 sa1 qie4 er3 hui4 wu4 。
+000005.wav.npy|49600|248|lao3 hu3 you4 zai3 yu3 chong3 wu4 quan3 wan2 shua3 。
+000006.wav.npy|57800|289|shen1 chang2 yue1 wu3 chi3 er4 cun4 wu3 fen1 huo4 yi3 shang4 。
+000007.wav.npy|46600|233|zhao4 di2 yue1 cao2 yun2 teng2 qu4 gui3 wu1 。
+000008.wav.npy|48000|240|zhan3 pin3 sui1 you3 ， zhan3 yuan2 que4 tui2 。
+000009.wav.npy|50800|254|yi3 san3 ju1 er2 tong2 he2 you4 tuo1 er2 tong2 wei2 zhu3 。
+000010.wav.npy|44400|222|ke1 te4 ni1 shen1 chuan1 bao4 wen2 da4 yi1 。
+000011.wav.npy|49800|249|yin3 cai2 yao4 shai1 ， yong4 cai2 ye3 yao4 shai1 。
+000012.wav.npy|47600|238|nan2 yue4 kun1 lun2 shan1 yu3 xi1 zang4 jie1 rang3 。
+000013.wav.npy|46600|233|weng1 kai3 lan2 fang2 ru3 xian4 ai2 xuan1 chuan2 zhao4 。
+000014.wav.npy|45000|225|wo3 hui2 you4 heng1 heng1 zuo3 heng1 heng1 。
+000015.wav.npy|44400|222|wu2 yun2 bao3 nai3 nai3 tiao1 xuan3 pi2 pa2 。
+000016.wav.npy|58200|291|ci3 wai4 guang3 ben3 ye3 jiang1 you2 shao4 zhuang4 pai4 zhang3 guan3 。
+000017.wav.npy|59400|297|you4 man2 wu3 niao3 niao3 ， zuo3 qiong2 ge1 xi1 xi1 。
+000018.wav.npy|61200|306|yan3 kuang4 kuan1 kuo4 er2 di1 ai3 ， bi2 duan3 er2 kuan1 。
+000019.wav.npy|73800|369|xia2 pu3 xian4 ya2 cheng2 zhen4 wu1 qi2 、 wa3 yao2 cun1 shui3 wei4 meng3 zhang3 。
+000020.wav.npy|57400|287|huo4 si1 yan4 lu4 bei4 xiu4 ru3 gou1 xing4 gan3 re3 huo3 。
+000021.wav.npy|44000|220|ye3 ke3 yi3 gei3 ben3 wei3 yuan2 fan3 ying4 yo1 。
+000022.wav.npy|54000|270|yao2 lan2 pai2 gai4 wei2 jian4 ying1 er2 pei4 fang1 nai3 fen3 。
+000023.wav.npy|47400|237|e4 yu4 lu3 wan3 su1 ju2 de da4 bao4 yu3 。
+000024.wav.npy|45600|228|yi3 xia4 wei4 xue1 man2 zi guan1 dian3 zhai1 yao4 。
+000025.wav.npy|42200|211|chen2 yu2 luo4 yan4 ， bi4 yue4 xiu1 hua1 。
+000026.wav.npy|51600|258|er2 xu3 guan1 ying1 yi4 jiang1 yu2 ming2 ri4 chu1 bin4 。
+000027.wav.npy|47000|235|a1 jiao1 yu3 bai3 wei4 “ gui3 fen3 si1 ” kuang2 huan1 。
+000028.wav.npy|45400|227|fang2 wu1 mai3 mai4 qi4 yue1 he2 shou1 tiao2 。
+000029.wav.npy|36200|181|liu2 wan1 er2 dou1 de2 duo3 yuan3 dian3 。
+000030.wav.npy|53000|265|hei1 xiong2 chuang3 jin4 wang2 ming2 hui1 jia1 hou4 yuan4 mi4 shi2 。
+000031.wav.npy|41800|209|wu2 ya4 jun1 yu3 zhang4 fu1 cai4 kui2 。
+000032.wav.npy|53400|267|ya4 xiao1 suan1 yan2 wei4 wei1 xian2 ， yi4 rong2 yu2 shui3 。
+000033.wav.npy|45600|228|yuan4 qiang2 bei4 shi2 mian2 wa3 zhe1 yan3 shang4 le 。
+000034.wav.npy|44200|221|cheng2 yin1 tiao1 xuan3 wo3 yan3 zhao4 yu4 min3 。
+000035.wav.npy|53600|268|yin2 chi1 mao3 liang2 ， wu2 yi4 yu2 yin3 zhen4 zhi3 ke3 。
+000036.wav.npy|54400|272|lv2 zi yue4 pao3 yue4 kuai4 ， yue4 pao3 yue4 feng1 kuang2 。
+000037.wav.npy|45200|226|ye2 yu2 de2 sun1 yao2 cha4 dian3 bei4 guo4 qi4 er2 。
+000038.wav.npy|42000|210|guang1 gun4 jie2 ying2 xiao1 ying4 yun4 er2 sheng1 。
+000039.wav.npy|44000|220|gao1 ya1 tie3 ta3 xia4 de di1 ai3 peng2 wu1 。
+000040.wav.npy|52200|261|dian4 ying3 hai3 bao4 “ pin2 min2 ku1 bai3 wan4 fu4 weng1 ”。
+000041.wav.npy|39400|197|diao1 wei2 lie4 yi3 bei4 ling4 an4 chu3 li3 。
+000042.wav.npy|106800|534|yun2 wu4 you3 shi2 wan3 ru2 yu4 dai4 ping2 wo4 feng1 luan2 shan1 jian4 ， you3 shi2 chui1 yan1 niao3 rao4 ， bo2 wu4 qing1 xuan2 。
+000043.wav.npy|38400|192|zui3 ba1 zhou1 wei2 lve4 wei1 zhong3 qi3 。
+000044.wav.npy|39400|197|huan1 sheng1 xiao4 yu3 sa3 man3 cun1 zhuang1 。
+000045.wav.npy|55400|277|sha1 chang3 jing4 yun3 ming4 ， zhuang4 zhi4 ye3 wu2 wei2 。
+000046.wav.npy|97600|488|zha2 zha2 dou4 fu pen1 pen4 xiang1 ， san3 zi ma2 hua1 beng1 beng1 cui4 ， zi3 mei4 tuan2 zi shu4 er4 jiang1 。
+000047.wav.npy|38200|191|ben3 shan1 ye3 zhen1 tai4 kou1 men2 er2 le 。
+000048.wav.npy|34600|173|lin4 dong1 ying1 de zhu4 yuan4 bing4 an4 。
+000049.wav.npy|38400|192|quan3 bi4 xu1 shuan1 yang3 huo4 quan1 yang3 。
+000050.wav.npy|64600|323|he4 li4 he2 yin4 du4 da4 heng1 a1 lang2 nai4 er3 yi3 jing1 fen1 ju1 shu4 yue4 。
+000051.wav.npy|48400|242|nan4 xiong1 nan4 di4 yao1 hao3 hao3 qie1 cuo1 qie1 cuo1 。
+000052.wav.npy|38600|193|xiao3 jun1 da4 tui3 nei4 ce4 yu1 qing1 。
+000053.wav.npy|47400|237|yi3 ji2 “ ci2 xiong2 kong3 zi niao3 ” fu4 yuan2 tu2 。
+000054.wav.npy|75200|376|yu3 nv3 yan3 yuan2 pai1 wen3 xi4 ， chen2 xiao3 chun1 bu4 pa4 ying1 cai3 er2 chi1 cu4 。
+000055.wav.npy|62600|313|fang3 zhen1 zhi1 、 cu1 hua1 ni2 deng3 yin4 hua1 mian4 liao4 de qiao3 miao4 yun4 yong4 。
+000056.wav.npy|37000|185|yu3 yue1 se4 fu1 tie1 mian4 lou3 bao4 。
+000057.wav.npy|90000|450|nu3 er3 bie2 er3 de2 ye2 wa2 qing3 zhou1 yong3 kang1 zhuan3 da2 dui4 wu2 bang1 guo2 wei3 yuan2 zhang3 de qin1 qie4 wen4 hou4 。
+000058.wav.npy|41000|205|jin1 you3 zhuang1 man2 er2 xia4 zhou1 juan1 shen4 。
+000059.wav.npy|57800|289|wo3 wo3 wo3 wo3 wo3 wo3 he2 pang4 zi yi4 qi3 。
+000060.wav.npy|61000|305|sao3 sao3 gei3 zuo4 de you2 mian4 wo1 wo1 、 he2 yang2 rou4 dun4 shan1 yao4 。
+000061.wav.npy|41000|205|man4 sa4 ni2 yue1 gang3 kou3 bei4 guan1 bi4 。
+000062.wav.npy|51600|258|liao4 bi4 er2 ma3 ya3 shu1 he2 lao3 gong1 shai4 en1 ai4 。
+000063.wav.npy|45400|227|wa4 zi tan1 xiao3 lao3 ban3 chen2 yong3 quan2 。
+000064.wav.npy|60200|301|he2 ji4 chou2 zi1 yi4 dian3 yi1 er4 jiu3 yi1 wu3 wu3 yi4 yuan2 。
+000065.wav.npy|41800|209|niao3 er2 zha1 zha1 ， zou4 qi3 chen2 qu1 。
+000066.wav.npy|75800|379|ti3 qiang2 zhuang4 er2 hou4 xue2 wen4 dao4 de2 zhi1 jin4 xiu1 yong3 er2 shou1 xiao4 yuan3 。
+000067.wav.npy|85400|427|wang3 gou4 huo4 wang3 sou1 gu3 min2 xin4 xi1 ， yi3 gao1 hui2 bao4 wei4 er3 “ qing3 jun1 ru4 weng4 ”。
+000068.wav.npy|46600|233|tu2 wei4 kai3 mu3 bo2 yi1 “ xie2 xian4 ” chong1 ci4 。
+000069.wav.npy|106800|534|ji2 jiang1 diao4 yu2 tai2 、 huang2 wei3 yu3 、 chi4 yu3 san1 dao3 shang3 gei3 sheng4 xuan1 huai2 wei4 chan3 ye4 ， gong1 cai3 yao4 zhi1 yong4 。
+000070.wav.npy|39400|197|yong4 bu4 yong4 wo3 ti4 ni3 wu3 zhe zui3 。
+000071.wav.npy|80000|400|er4 jing4 jia1 zhu4 bei3 wu3 huan2 wai4 ， shang4 ban1 yao4 qu4 ya4 yun4 cun1 hua2 tang2 shang1 chang3 。
+000072.wav.npy|40200|201|you3 guan1 neng2 fou3 gai3 kong4 “ chuan4 mou2 ”。
+000073.wav.npy|66600|333|bu4 lv3 ni2 ye3 yu3 qian2 fu1 zhe2 xue2 jia1 la1 fei3 er3 yu4 you3 yi1 zi 。
+000074.wav.npy|39200|196|you4 you3 shei2 ken3 she3 shi1 gei3 ta1 ne ？
+000075.wav.npy|48800|244|qie4 zei2 lu4 tui3 zi4 cheng1 huan4 “ ma2 feng1 bing4 ”。
+000076.wav.npy|45200|226|lao3 zu3 mu3 yi3 mou2 sha1 zui4 bei4 shou1 ya1 。
+000077.wav.npy|35400|177|ai3 cuo2 qiong2 ， bie2 xia1 kua1 。
+000078.wav.npy|45800|229|yu2 zai4 shui3 li3 da3 xuan2 de wang3 wai4 luan4 beng4 。
+000079.wav.npy|70800|354|zhuo2 wen2 jun1 shuo1 ： wan3 ru2 shan1 shang4 xue3 ， jiao3 ruo4 yun2 jian1 yue4 。
+000080.wav.npy|42200|211|yi1 lei4 miao2 ke3 wei4 ming4 yun4 duo1 chuan3 。
+000081.wav.npy|35200|176|mou3 xiao3 song3 kuai4 kuai4 kan4 kan4 。
+000082.wav.npy|51800|259|tie3 sha1 zhang3 ai4 hao4 zhe3 zhang1 hui1 biao3 yan3 pi1 zhuan1 。
+000083.wav.npy|47000|235|er2 lv3 ye4 xin1 ye3 bei4 yi1 gen1 lin3 zi ya1 zhe 。
+000084.wav.npy|55000|275|zhun1 zhun1 ding1 ning2 ， wu4 wang4 tian1 shan1 bu3 yu4 qing2 。
+000085.wav.npy|63200|316|xian4 zai4 shi4 dao4 er2 yue4 zou3 yue4 kuan1 ， ren2 qi4 yue4 gao3 yue4 wang4 。
+000086.wav.npy|54800|274|wu2 yong1 hui4 yan2 ， ren2 you3 ji4 xing4 ， yi4 you3 wang4 xing4 。
+000087.wav.npy|82000|410|can1 hou4 ， yi1 xing2 ren2 you4 pei2 wang1 xiao3 fei1 dao4 ling4 yi1 zhen3 suo3 kan4 er3 bi2 hou2 ke1 。
+000088.wav.npy|40600|203|gan4 ma a ni3 you4 lai2 gou1 da1 shei2 。
+000089.wav.npy|46200|231|yue1 wan3 ka3 yu3 tie3 tuo1 mei2 you3 hai2 zi 。
+000090.wav.npy|72600|363|shou4 sun3 song4 dai4 ge1 yao2 qing1 you4 kui2 ban4 kou3 pan2 zheng4 mian4 sun3 hui3 hou4 。
+000091.wav.npy|50600|253|ye3 huan1 ying2 wei4 sheng1 mian2 chang3 shang1 zhao3 wo3 dai4 yan2 。
+000092.wav.npy|71200|356|lou2 yi3 wang3 huan2 kong1 long3 mu3 ， qi2 lin2 mai2 mo4 ji3 chun1 qiu1 。
+000093.wav.npy|84800|424|ru2 hu4 fa1 he2 hu4 yan3 yao4 dai4 shang4 gui1 jiao1 yong3 mao4 he2 zhai1 chu2 yin3 xing2 yan3 jing4 。
+000094.wav.npy|47400|237|ma3 jun4 wei3 yu3 yang2 yi2 deng3 gong4 du4 sheng1 ri4 。
+000095.wav.npy|48800|244|sheng3 ji2 wen2 bao3 dan1 wei4 man3 yuan4 er2 liu1 da2 ji1 。
+000096.wav.npy|99600|498|tu2 wei4 zhong1 shan1 zhan1 yuan2 guang3 yao1 qian1 yu2 you2 ke4 pin3 chang2 chong2 yang2 yi4 shou4 qian1 sou3 yan4 。
+000097.wav.npy|45000|225|xiao3 wen2 jie2 quan2 shen1 ku1 shou4 ru2 chai2 。
+000098.wav.npy|53400|267|qin2 mou3 yong4 lian3 pen2 yao3 shui3 jiang1 huo3 pu1 mie4 。
+000099.wav.npy|45800|229|an1 quan2 tao4 zuo4 cheng2 wu1 du2 wa2 wa2 yang4 zi 。
+000100.wav.npy|44000|220|di4 san1 shi4 kao3 ya1 que1 jin1 duan3 liang3 。
+000101.wav.npy|39800|199|chuan2 ma3 yi1 li2 huai2 shang4 er4 tai1 。
+000102.wav.npy|59600|298|feng1 zheng1 yao4 xian4 ， ben1 ma3 yao4 jiang1 ， hang2 chuan2 yao4 duo4 。
+000103.wav.npy|41600|208|jia3 yuan4 yuan4 tuo1 gao1 yue4 shang4 lou2 。
+000104.wav.npy|45000|225|hei1 pao2 niao3 “ xiao3 hei1 ” shi4 lin2 ba1 ge1 。
+000105.wav.npy|50000|250|ta1 yue4 en4 ， wo3 yue4 huang1 ， fa1 dong4 yue4 man4 。
+000106.wav.npy|53400|267|mao3 tu4 kai1 xin1 sui4 ， liang3 an4 gong4 ying2 chun1 。
+000107.wav.npy|65000|325|wu3 yue4 tian1 ma3 sha1 ti4 ju2 wa2 wa2 huan4 zhuang1 bi3 ji1 ni2 。
+000108.wav.npy|72200|361|po1 tu3 yan2 xing4 wei4 po1 po1 ， can2 ji1 tu3 shu3 tu3 zhi4 bian1 po1 。
+000109.wav.npy|61200|306|mo4 xi1 ge1 yi1 wu3 er4 yi1 nian2 lun2 wei4 xi1 ban1 ya2 zhi2 min2 di4 。
+000110.wav.npy|81800|409|wa2 ha1 ha1 qi3 ye4 yan2 jiu1 yuan4 fu4 yuan4 zhang3 li3 yan2 jun4 suan4 shi4 “ ku3 zhu3 ” zhi1 yi1 。
+000111.wav.npy|56800|284|zhou1 yun4 ze2 huo4 lao3 wai4 lou3 yao1 ， xing1 fen4 da4 xiao4 。
+000112.wav.npy|47400|237|wo3 yao4 yong4 gu3 ge1 fa1 song4 yi1 feng1 you2 jian4 。
+000113.wav.npy|43400|217|di2 wo4 er3 fu1 ze2 tun1 le yi1 kou3 shui3 。
+000114.wav.npy|52800|264|xian1 shi1 de yan2 jiu1 ling3 yu4 hao4 han4 wu2 ya2 yi3 。
+000115.wav.npy|45800|229|yin1 gan1 die1 er2 hong2 de mo2 te4 zhou1 rui3 。
+000116.wav.npy|38000|190|wan2 ka1 yong4 lai2 pian4 mei3 mei2 。
+000117.wav.npy|52800|264|wu3 jie4 song1 san3 xia2 ai4 ， yao4 tuan2 jie2 he2 zuo4 。
+000118.wav.npy|44800|224|xi1 wang4 kan4 yi1 yan3 ge2 er3 mu4 de shu4 ye4 。
+000119.wav.npy|41200|206|bing3 zhe2 ye3 hui2 wen3 da4 mang3 she2 。
+000120.wav.npy|87600|438|cheng2 men2 ding3 duan1 you3 tao2 se4 de tao2 wa3 ， wu1 ding3 yi3 long2 feng4 deng3 rui4 shou4 zhuang1 shi4 。
+000121.wav.npy|47400|237|xue2 sheng1 ta4 shang4 lan2 gan1 xi4 nong4 e4 yu2 。
+000122.wav.npy|75400|377|ni3 kan4 liang2 chao2 wei3 yan3 “ se4 jie4 ”， liu2 jia1 ling2 ye3 de2 yao3 ya2 ren3 zhu4 ya 。
+000123.wav.npy|40600|203|zhe4 yao4 wen4 wen4 huo3 xing1 shang4 de yu2 la 。
+000124.wav.npy|45200|226|zhong1 zhen4 tao1 yu3 nv3 er2 qian1 shou3 guang4 jie1 。
+000125.wav.npy|43000|215|yi1 ceng2 ke3 yi3 zhong4 hua1 hua1 cao3 cao3 。
+000126.wav.npy|49600|248|mei3 jia1 zuo1 fang sun3 shi1 you3 yi1 er4 shi2 wan4 yuan2 。
+000127.wav.npy|53000|265|ta1 mian4 rong2 qiao2 cui4 ， you4 tui3 you3 xie1 que2 guai3 。
+000128.wav.npy|40800|204|jiu4 jiu4 zhi3 zhang1 shao2 han2 ou1 qin1 。
